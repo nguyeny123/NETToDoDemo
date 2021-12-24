@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETToDoDemo", "NETToDoDemo\NETToDoDemo.csproj", "{64608BEE-4819-4206-90C2-A47216B80873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64608BEE-4819-4206-90C2-A47216B80873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64608BEE-4819-4206-90C2-A47216B80873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64608BEE-4819-4206-90C2-A47216B80873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64608BEE-4819-4206-90C2-A47216B80873}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1C69CCE-03B3-4968-921D-2D3FF1602CE1}
+	EndGlobalSection
+EndGlobal
